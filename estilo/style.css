@@ -69,7 +69,7 @@ header > p {
     max-width: 500px; /* Largura maxima da area */ 
     padding-left: 10px;
     padding-right: 10px;
-    margin-bottom: 30px;
+    padding-bottom: 30px;
     margin:auto; /* para manter no centro da area */
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.486);
 
